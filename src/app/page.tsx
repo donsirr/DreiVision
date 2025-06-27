@@ -80,6 +80,14 @@ export default function Component() {
               Let's discuss your project! Join my Discord Server to get in touch and see how I can help bring your
               Roblox game to life with stunning visuals.
             </p>
+            <p className="text-gray-700 leading-relaxed"><strong>Pricing</strong></p>
+            <p className="text-gray-700 leading-relaxed mb-6">
+              Thumbnail and Icon:
+              <br></br>
+              - 50$ via PayPal
+              <br></br>
+              - 17,000 R$ via GAMEPASS
+            </p>
             <Button
               asChild
               className="bg-[#5865F2] hover:bg-[#4752C4] text-white px-8 py-3 rounded-lg font-medium transition-colors"
