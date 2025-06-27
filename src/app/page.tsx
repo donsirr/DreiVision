@@ -130,12 +130,6 @@ export default function Component() {
                 className="object-contain"
                 onClick={(e) => e.stopPropagation()}
               />
-                          <button
-              onClick={closeModal}
-              className="absolute top-6 right-4 bg-black text-white"
-            >
-              <X size={32} />
-            </button>
             </div>
           </div>
         </div>
